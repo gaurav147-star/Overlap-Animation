@@ -15,18 +15,20 @@
   font-family: "GothamBold";
   src: url("../gotham/GothamBold.woff2") format("woff2");
 }
+
+/* For Gotham Light TTF */
 @font-face {
   font-family: "GothamLight";
   src: url("../gotham/GothamLight.ttf") format("truetype");
 }
 
-/* For Gotham Bold WOFF */
+/* For Gotham Light WOFF */
 @font-face {
   font-family: "GothamLight";
   src: url("../gotham/GothamLight.woff") format("woff");
 }
 
-/* For Gotham Bold WOFF2 */
+/* For Gotham Light WOFF2 */
 @font-face {
   font-family: "GothamLight";
   src: url("../gotham/GothamLight.woff2") format("woff2");
@@ -40,7 +42,6 @@
   justify-content: center;
   flex-wrap: wrap;
   align-items: center;
-  height: 100vh;
 }
 
 .row {
@@ -107,7 +108,7 @@ img {
   background: linear-gradient(180.68deg, rgba(0, 0, 0, 0) -9.3%, rgba(0, 0, 0, 0.59) 30%, #000000 99.41%);
   padding: 10px;
   box-sizing: border-box;
-  border-radius: 10px;
+  border-radius: 0px 0px 10px 10px;
 }
 
 .content1 h2 {
