@@ -1,0 +1,25 @@
+{
+    "cards": [
+      {
+        "image": "./images/image.png",
+        "title": "Holistic Development",
+        "description": "Right Mix of Curricular and Co-Curricular Activities."
+      },
+      {
+        "image": "./images/image1.png",
+        "title": "Proven and Tested Centralized Curriculum",
+        "description": "CBSE school with balanced traditional & contemporary curriculum to foster growth in all its students."
+      },
+      {
+        "image": "./images/image2.png",
+        "title": "Innovative and Challenging learning Methodologies",
+        "description": "Facilitate excellence through critical thinking and profound learning."
+      },
+      {
+        "image": "./images/image3.png",
+        "title": "Faculty Enrichment Program",
+        "description": "Regular teacher training and curriculum workshops."
+      }
+    ]
+  }
+  

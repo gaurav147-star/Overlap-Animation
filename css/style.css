@@ -42,6 +42,7 @@
   justify-content: center;
   flex-wrap: wrap;
   align-items: center;
+  margin: 0px 10%;
 }
 
 .row {
@@ -66,10 +67,11 @@ img {
 
 .content {
   position: absolute;
+  position: absolute;
   bottom: 0;
   left: 0;
   right: 0;
-  background-color: #7b00ff;
+  background-color: rgba(123, 0, 255, 0.9); /* Adjust the alpha value (0.8) for transparency */
   overflow: hidden;
   width: 0;
   height: 20px;
@@ -123,7 +125,11 @@ img {
   visibility: hidden;
 }
 
-span {
+.heading h1 span {
+  color: #7b00ff;
+}
+
+.even-word{
   color: #7b00ff;
 }
 
